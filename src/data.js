@@ -1,26 +1,24 @@
 export const projects = [
   {
     title: "Parallel Reads",
-    subtitle: "A fully development PHP webiste.",
+    subtitle: "HTML, CSS, JavaScript & PHP",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "#",
+    image: "parallelreads.png",
     link: "https://parallelreads.com",
   },
   {
     title: "Zelda API Manager",
-    subtitle: "Using Ruby",
+    subtitle: "Ruby",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "#",
-    link: "#",
+    image: "zeldaapi.png",
   },
   {
-    title: "Mockup",
+    title: "Mockup Webpage",
     subtitle: "HTML & CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "#",
-    link: "#",
+    image: "hayden.png",
   },
 ];

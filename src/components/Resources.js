@@ -1,5 +1,5 @@
 import React from "react";
-import {BadgeCheckIcon, ClipboardListIcon} from "@heroicons/react/solid";
+import {ClipboardListIcon} from "@heroicons/react/solid";
 
 export default function Resources() {
     return(

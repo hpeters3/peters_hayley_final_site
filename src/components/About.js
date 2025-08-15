@@ -1,7 +1,5 @@
 import React from "react";
 
-//VS Code setup, terminal setup, and preferred editor format
-
 export default function About() {
     return(
         <section id="about">

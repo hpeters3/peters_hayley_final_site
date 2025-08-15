@@ -1,7 +1,5 @@
 import React from "react";
-import {BadgeCheckIcon, ChipIcon} from "@heroicons/react/solid";
-
-//description, languages/frameworks, tools
+import {ChipIcon} from "@heroicons/react/solid";
 
 export default function Skills() {
     return(

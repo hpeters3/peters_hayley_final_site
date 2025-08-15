@@ -6,11 +6,11 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    - cron: '22 12 * * 0' # Weekly on Sundays at 12:22 UTC
+    - cron: '22 12 * * 0'
 
 jobs:
   eslint:
-    name: Run ESLint and Prettier Checks
+    name: Run ESLint Checks
     runs-on: ubuntu-latest
     permissions:
       contents: read

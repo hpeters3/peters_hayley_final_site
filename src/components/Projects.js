@@ -11,7 +11,7 @@ export default function Projects() {
                 <div className="mb-20">
                     <CodeIcon className="inline-block w-10"/>
                     <h1 className="sm:text-4xl font-medium mb-4 text-white">Applications I've Built</h1>
-                    <p>Some text here explaining something.</p>
+                    <p>The projects from my education that I'm the most product of (with Parallel Reads being the top, especially because it's deployed).</p>
                 </div>
                 <div className="flex">
                     {projects.map((project) => (

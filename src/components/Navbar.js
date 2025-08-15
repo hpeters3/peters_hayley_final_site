@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Navbar() {
     return (
-        <header className="bg-gray-800 md:sticky top-0 z-10">
+        <header className="md:sticky top-0 z-10" style= {{ backgroundColor: '#38040E' }}>
             <div className=" flex p-5 flex-col md:flex-row items-center">
                 <div className="font-medium text-white mb-4 md:mb-0">
                     <a href="#about" className="text-xl">Hayley Peters</a>

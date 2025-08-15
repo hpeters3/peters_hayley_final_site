@@ -13,7 +13,7 @@ export default function Resources() {
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto">
                     <div className="p-2 sm:w-1/2">
                         <a href="https://github.com">
-                            <div className="bg-gray-800 rounded flex p-4 items-center">
+                            <div className="rounded flex p-4 items-center" style={{background: "#640D14"}}>
                                 <img src="github.png" className="h-6 mr-4"/>
                                 <p><span className="font-medium text-white">GitHub</span> - a source control software I've used for countless projects.</p>
                             </div>
@@ -21,7 +21,7 @@ export default function Resources() {
                     </div>
                     <div className="p-2 sm:w-1/2">
                         <a href="https://www.w3schools.com/">
-                            <div className="bg-gray-800 rounded flex p-4 items-center">
+                            <div className="rounded flex p-4 items-center" style={{background: "#640D14"}}>
                                 <img src="w3schools.png" className="h-6 mr-4"/>
                                 <p><span className="font-medium text-white">W3Schools</span> -  an educational platform for all things web development.</p>
                             </div>
@@ -29,7 +29,7 @@ export default function Resources() {
                     </div>
                     <div className="p-2 sm:w-1/2">
                         <a href="https://www.docker.com/">
-                            <div className="bg-gray-800 rounded flex p-4 items-center">
+                            <div className="rounded flex p-4 items-center" style={{background: "#640D14"}}>
                                 <img src="docker.png" className="h-6 mr-4"/>
                                 <p><span className="font-medium text-white">Docker</span> - a platform used for deploying code to production.</p>
                             </div>
@@ -37,7 +37,7 @@ export default function Resources() {
                     </div>
                     <div className="p-2 sm:w-1/2">
                         <a href="https://www.freecodecamp.org/">
-                            <div className="bg-gray-800 rounded flex p-4 items-center">
+                            <div className="rounded flex p-4 items-center" style={{background: "#640D14"}}>
                                 <img src="freecodecamp.png" className="h-6 mr-4"/>
                                 <p><span className="font-medium text-white">Free Code Camp</span> - a educational platform with many coding courses.</p>
                             </div>

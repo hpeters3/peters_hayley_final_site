@@ -9,7 +9,7 @@ import Skills from "./components/Skills";
 
 function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main className="text-gray-400 body-font" style={{ backgroundColor: '#250902' }}>
       <Navbar />
       <About />
       <Projects />

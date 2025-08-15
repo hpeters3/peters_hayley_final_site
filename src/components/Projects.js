@@ -19,7 +19,7 @@ export default function Projects() {
                             <div className="flex relative">
                                 <img alt="gallery" className="absolute h-full object-cover" src={project.image}/>
                                 <div className="px-3 py-10 z-10 border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
-                                    <h2 className="text-sm font-medium text-green-400 mb-1">{project.subtitle}</h2>
+                                    <h2 className="text-sm font-medium mb-1" style={{color: "#AD2831"}}>{project.subtitle}</h2>
                                     <h1 className="text-lg font-medium text-white">{project.title}</h1>
                                     <p>{project.description}</p>
                                 </div>
